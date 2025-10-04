@@ -1,3 +1,4 @@
+"use client"
 import { StatCard } from "@/components/molecules/stat-card"
 import { RealtimeLine } from "@/components/charts/realtime-line"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
